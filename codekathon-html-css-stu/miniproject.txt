@@ -1,0 +1,22 @@
+các màu tham khảo (hex): (có thể tìm màu khác thay thế)
+
+màu trắng : #F8F5F9
+màu tím nhạt: #F3E9FF
+màu tím đậm: #774AD8
+màu vàng nhạt: #FEEFB2
+màu vàng đậm: #F8C929
+màu vàng nâu: #66490A
+
+Yêu cầu: 
+    sử dụng ol hoặc li 
+    sử dụng span để hightlight
+    sử dụng thành thạo padding và margin
+    sử dụng thuộc tính anchor
+    sử dụng header khác nhau cho từng phần
+    hạn chế lặp lại css quá nhiều 
+
+Mục tiêu
+    giúp các bạn nắm vững các thuộc tính css
+    giúp các bạn cách phân chia html cấu trúc phù hợp
+    giúp các bạn hiểu rõ về boxmodel
+PS do chưa học đến flex nên các bạn dùng phương pháp inline và block để center các element 

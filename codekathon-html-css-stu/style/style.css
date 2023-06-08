@@ -1,0 +1,63 @@
+body {
+  padding: 20px 20%;
+  font-family: "Roboto", sans-serif;
+  background-color: #F8F5F9;
+}
+
+header {
+  text-align: center;
+}
+header h1 {
+  color: #774AD8;
+}
+header img {
+  width: 30%;
+  margin-bottom: 20px;
+}
+
+main {
+  background-color: #774AD8;
+  border-radius: 10px;
+  padding: 30px 15px;
+  color: #F8F5F9;
+}
+main .first ul, main .second ul {
+  padding-left: 0px;
+}
+main .first ul li, main .second ul li {
+  list-style: none;
+  padding: 10px;
+}
+main .first ul li.active, main .second ul li.active {
+  color: #F8C929;
+  border-left: 5px solid #F8C929;
+  padding-left: 5px;
+}
+main .first .link, main .second .link {
+  padding: 4px 8px;
+  background-color: #FEEFB2;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 5px;
+}
+
+footer {
+  margin-top: 60px;
+}
+footer a {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+  padding: 12px 24px;
+  background-color: #F8C929;
+  width: 25%;
+  border-radius: 15px;
+  text-decoration: none;
+  color: #66490A;
+  font-weight: bold;
+}
+footer p {
+  text-align: center;
+}
+
+/*# sourceMappingURL=style.css.map */
